@@ -21,7 +21,6 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 <div align="center">
     <img style="width: 250px" src="https://github.com/Jeanduarty/nlw-esports-ignite/blob/main/img/mobile-project.jpeg">
     <img style="width: 250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHNkH2rrbX3_A/feedshare-shrink_800/0/1663356183418?e=1666224000&v=beta&t=vESAQcAubV4MN18_gNmwLUbfxAQwOM743QBa3a1GLiw">
-    <img style="width: 250px" src="https://github.com/Jeanduarty/nlw-esports-ignite/blob/main/img/discord-mobile.jpeg">
 </div>
 
 ## Tecnologias utilizadas 💻
