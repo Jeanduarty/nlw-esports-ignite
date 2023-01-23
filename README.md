@@ -14,7 +14,7 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 
 - Tela de exemplo de criação dos anúncios
 
-<img align="center" src="https://raw.githubusercontent.com/Jeanduarty/nlw-esports-ignite/main/img/ad-mobile-project.jpeg">
+<img align="center" src="https://raw.githubusercontent.com/Jeanduarty/nlw-esports-ignite/main/img/ad-mobile-project.jpeg" alt="anúncio">
 
 ## Screenshots Mobile
 
